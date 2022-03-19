@@ -1,0 +1,2 @@
+# GNNTextClassification
+GNN for TextClassification
